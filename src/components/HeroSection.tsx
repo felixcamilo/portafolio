@@ -34,7 +34,7 @@ export function HeroSection() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-lg text-muted-foreground max-w-lg mx-auto mb-10"
         >
-          Diseño y construyo aplicaciones web limpias y de alto rendimiento con tecnologías modernas.
+          Planifico, diseño, construyo y despliego sistemas escalables y de alto rendimiento con tecnologías modernas.
         </motion.p>
 
         <motion.div

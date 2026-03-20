@@ -22,12 +22,12 @@ export function AboutSection() {
           </h2>
           <div className="space-y-4 text-muted-foreground leading-relaxed mb-10">
             <p>
-              Soy un desarrollador full stack apasionado por crear soluciones elegantes a problemas complejos.
-              Con experiencia en desarrollo frontend y backend, construyo aplicaciones que son
-              tanto hermosas como de alto rendimiento.
+              Backend Engineer enfocado en construir sistemas escalables, APIs robustas y lógica de negocio eficiente.
+
+              Experiencia en bases de datos, decisiones técnicas alineadas al negocio y prácticas DevOps (Docker, CI/CD) para garantizar sistemas resilientes y de alto rendimiento.
             </p>
             <p>
-              Disfruto trabajar con tecnologías modernas y siempre estoy dispuesto a aprender nuevas herramientas y frameworks
+              Disfruto trabajar en equipo con tecnologías modernas y siempre estoy dispuesto a aprender nuevas herramientas y frameworks
               que me ayuden a entregar mejores productos.
             </p>
           </div>

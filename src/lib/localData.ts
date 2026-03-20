@@ -40,7 +40,7 @@ const fallbackProjects: LocalProject[] = [
         id: "project-1",
         title: "Subscription Tracker API",
         description:
-            "Backend en Node.js/Express con MongoDB que permite gestionar suscripciones, ver renovaciones próximas y enviar recordatorios automáticos por correo. Incluye autenticación JWT, control de acceso por roles, rate limiting con Arcjet y documentación interactiva con Swagger/OpenAPI.",
+            "API de gestión de suscripciones que ayuda a usuarios a evitar cobros sorpresa y tomar mejores decisiones financieras, centralizando sus pagos recurrentes, mostrando renovaciones próximas y enviando recordatorios automáticos antes de cada cargo.",
         tech_stack: [
             "Node.js",
             "Express",
@@ -65,16 +65,12 @@ const fallbackProjects: LocalProject[] = [
         id: "project-2",
         title: "Video Streaming Platform",
         description:
-            "Plataforma de streaming de video con funcionalidades avanzadas como autenticación segura, gestión de suscripciones, recomendaciones personalizadas y análisis de視聴. Construida con tecnologías modernas para ofrecer una experiencia fluida y escalable.",
+            "Plataforma web de videollamadas estilo Google Meet/Zoom, creada con Next.js y React, que facilita reuniones remotas estables, interacción en tiempo real y colaboración distribuida, maximizando la eficiencia de equipos que trabajan a distancia.",
         tech_stack: [
             "Next.js",
+            "React",
             "TypeScript",
             "PostgreSQL",
-            "JWT",
-            "Arcjet",
-            "Upstash",
-            "Resend",
-            "Swagger",
         ],
         image_url: "/yoom-app.png",
         live_url: "https://zoom-clone-peach-sigma.vercel.app/",

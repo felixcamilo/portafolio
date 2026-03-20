@@ -7,7 +7,7 @@ export function Footer() {
           <a href="https://github.com/felixcamilo" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
             GitHub
           </a>
-          <a href="https://www.linkedin.com/in/felix-camilo-728aab229/?locale=en-US" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
+          <a href="https://www.linkedin.com/in/felix-alejandro-camilo-javier-728aab229" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
             LinkedIn
           </a>
           <a href="https://x.com/alejandr0camilo" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
