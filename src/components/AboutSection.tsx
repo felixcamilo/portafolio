@@ -2,8 +2,10 @@ import { motion } from "framer-motion";
 import { Badge } from "@/components/ui/badge";
 
 const skills = [
-  "React", "TypeScript", "Node.js", "PostgreSQL", "Tailwind CSS",
-  "Next.js", "Python", "Docker", "AWS", "GraphQL", "Git", "REST APIs",
+  "C#", "ASP.NET Core", "Node.js", "Express.js", "Python",
+  "JavaScript", "TypeScript", "React",
+  "PostgreSQL", "SQL Server", "MongoDB",
+  "Git", "Docker", "Kubernetes", "AWS", "Azure", "Terraform",
 ];
 
 export function AboutSection() {
