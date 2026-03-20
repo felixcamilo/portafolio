@@ -28,7 +28,7 @@ export function ProjectsSection() {
         >
           <p className="text-sm tracking-widest uppercase text-muted-foreground mb-3">Trabajo</p>
           <h2 className="text-3xl md:text-4xl font-bold tracking-tight mb-10">
-            Proyectos Seleccionados
+            Proyectos
           </h2>
         </motion.div>
 
