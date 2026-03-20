@@ -53,7 +53,7 @@ const fallbackProjects: LocalProject[] = [
             "Swagger",
         ],
         image_url: "/subscription-tracker-api.png",
-        live_url: "https://subscriptiontracking.cloud/api-docs/",
+        live_url: "https://subscription-tracker-api-jpnp.onrender.com/api-docs",
         github_url: "https://github.com/felixcamilo/Subscription-Tracker-API",
         category: "Backend",
         display_order: 1,
