@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Badge } from "@/components/ui/badge";
 
 const skills = [
-  "C#", "ASP.NET Core", "Node.js", "Express.js", "Python",
+  "C#", ".NET", "ASP.NET Core", "Node.js", "Express.js", "Python",
   "JavaScript", "TypeScript", "React",
   "PostgreSQL", "SQL Server", "MongoDB",
   "Git", "Docker", "Kubernetes", "AWS", "Azure", "Terraform",
