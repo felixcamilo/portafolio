@@ -38,7 +38,7 @@ const MESSAGES_KEY = "portfolio_contact_messages";
 const fallbackProjects: LocalProject[] = [
     {
         id: "project-1",
-        title: "Subscription Tracker API",
+        title: "Sistema de Seguimiento de Suscripciones",
         description:
             "API de gestión de suscripciones que ayuda a usuarios a evitar cobros sorpresa y tomar mejores decisiones financieras, centralizando sus pagos recurrentes, mostrando renovaciones próximas y enviando recordatorios automáticos antes de cada cargo.",
         tech_stack: [
@@ -63,7 +63,7 @@ const fallbackProjects: LocalProject[] = [
 
     {
         id: "project-2",
-        title: "Video Streaming Platform",
+        title: "Plataforma de Videoconferencias",
         description:
             "Plataforma web de videollamadas estilo Google Meet/Zoom, creada con Next.js y React, que facilita reuniones remotas estables, interacción en tiempo real y colaboración distribuida, maximizando la eficiencia de equipos que trabajan a distancia.",
         tech_stack: [
