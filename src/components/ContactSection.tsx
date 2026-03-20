@@ -78,7 +78,7 @@ export function ContactSection() {
             Ponte en contacto
           </h2>
           <p className="text-muted-foreground mb-10">
-            ¿Tienes un proyecto en mente o simplemente quieres saludar? Envíame un mensaje.
+            ¿Quieres ofrecerme algun empleo, tienes un proyecto en mente o simplemente quieres saludar? Envíame un mensaje.
           </p>
 
           <form onSubmit={handleSubmit} className="space-y-5">
@@ -133,7 +133,7 @@ export function ContactSection() {
               </a>
             </Button>
             <Button asChild variant="ghost" size="icon">
-              <a href="https://www.linkedin.com/in/felix-camilo-728aab229/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/felix-alejandro-camilo-javier-728aab229" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                 <Linkedin className="h-5 w-5" />
               </a>
             </Button>
